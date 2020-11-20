@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "437346055684",
+    "firebase_url": "https://mywallchat-a9894.firebaseio.com",
+    "project_id": "mywallchat-a9894",
+    "storage_bucket": "mywallchat-a9894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437346055684:android:b6c908e9483e66a1",
+        "android_client_info": {
+          "package_name": "com.unipi.p15173.mywallchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437346055684-bjr9dkueg2itls160ccs7r3ugd33p3lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kEqKlPu_hhfBzCjcdgDeTmxB_tIBeQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
